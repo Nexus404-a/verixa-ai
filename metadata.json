@@ -1,0 +1,8 @@
+{
+  "name": "Verixa AI - College & Degree Legality Verifier",
+  "description": "AI-powered web agent platform that verifies legal recognition, approved intake, and affiliation of colleges and courses across UGC, AICTE, NMC, and state regulators for admission years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
